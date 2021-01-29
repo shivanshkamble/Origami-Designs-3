@@ -21,7 +21,7 @@ body{background-color: whitesmoke;}
 }
 .grid{
     display:flex;
-    flex-wrap:wrap;
+    flex-flow:row wrap;
 }
 .origami{
     border: yellowgreen 7px solid;
